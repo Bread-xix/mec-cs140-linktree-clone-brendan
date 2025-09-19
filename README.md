@@ -19,10 +19,9 @@ Welcome to your next web development challenge! This assignment involves creatin
 1. **Review Starter Code and Example**: Begin by examining the HTML and CSS files. Look for comments that guide where to make specific changes.
 1. **Perform Updates**: Follow the assignment objectives to customize your site.
 1. **Preview Changes**: Use a local server or open the HTML file in a browser to see your changes.
-1. **Submission**: Commit and Sync your completed work back to your repository and paste your repository link to Blackboard. 
+1. **Submission**: Commit and Sync your completed work back to your repository
 
 ## Tips
 
 - Pay close attention to the HTML comments (`<!-- Comment -->`) for guidance on where to add or update content.
 - Experiment with CSS styles to make your links stand out and reflect your personal brand.
-- Remember, this assignment is not just about fulfilling the requirements but also about expressing your creativity and technical skills.
