@@ -13,7 +13,7 @@ body {
 
 .container {
     text-align: center;
-    background-color: rgb(250, 0, 0);
+    background-color: rgb(131, 2, 2);
     padding: 30px;
     border-radius: 15px;
     width: 300px;
@@ -35,7 +35,7 @@ h1 {
     display: block;
     text-decoration: none;
     background-color: #2575fc;
-    color: white;
+    color: rgb(117, 12, 12);
     padding: 12px;
     margin: 10px 0;
     border-radius: 8px;
