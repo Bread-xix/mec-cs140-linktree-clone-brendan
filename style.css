@@ -103,7 +103,7 @@ body {
   animation: animate 3s linear var(--delay) infinite;
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  -webkit-text-fill-color: rgba(187, 18, 18, 0);
 }
 
 
