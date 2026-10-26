@@ -1,7 +1,7 @@
 @import url('https://media.discordapp.net/attachments/966165097393315901/1564409904096088115/IMG_0855.png?ex=6ae129c2&is=6adfd842&hm=ce23dd10a07f44c08e714333041e2eeb5cc77291c6f3be7ab21e2f39f3c2b172&=&format=webp&quality=lossless');
 
 :root {
-  --bgColor: #5e0808;
+  --bgColor: #141035a4;
   --bgColor2: #010205;
   --accentColor: #FFF;
   --font: 'Karla', sans-serif;
@@ -20,7 +20,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  background: rgb(0, 0, 0);
+  background: rgba(116, 5, 5, 0.753);
   /*background-image: url('https://media.discordapp.net/attachments/966165097393315901/1564409904096088115/IMG_0855.png?ex=6ae129c2&is=6adfd842&hm=ce23dd10a07f44c08e714333041e2eeb5cc77291c6f3be7ab21e2f39f3c2b172&=&format=webp&quality=lossless'); */
 }
 
